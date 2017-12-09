@@ -1,6 +1,7 @@
 # Hero Data App
 
-Angular 2 app, based on a tutorial found at the [Angular Docs](angular.io)
+Angular 2 app, based on a tutorial found at the [Angular Docs](angular.io).
+
 The app holds and manages a list of 'Heros'.
 
 ## Getting Started
