@@ -16,6 +16,10 @@ What things you need to install and how to install them
 npm install -g @angular/cli
 ```
 
+```
+npm install
+```
+
 ### To Start
 
 Clone or download the repo then navigate to the directory and run:
